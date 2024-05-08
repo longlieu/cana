@@ -1,0 +1,124 @@
+{
+    "contentPatches": {
+        "1.content.beta.pc.1.0.1": {
+            "file": "1.content.beta.pc.1.0.1.zip",
+            "md5": "3b5f443ceaa52f29de961cebaceba682",
+            "extracted_size": 38161607
+        },
+        "1.content.beta.pc.1.0.2": {
+            "file": "1.content.beta.pc.1.0.2.zip",
+            "md5": "daaae6f3cc302c4905464ccaf612b5f9",
+            "extracted_size": 31593084
+        },
+        "1.content.beta.pc.1.0.3": {
+            "file": "1.content.beta.pc.1.0.3.zip",
+            "md5": "a57f24b7f98c9b190eae3451348c4d43",
+            "extracted_size": 38801201
+        },
+        "1.content.beta.pc.2.0.2": {
+            "file": "1.content.beta.pc.2.0.2.zip",
+            "md5": "39959b6502a1ae06f7a9dee9c85a03da",
+            "extracted_size": 68013282
+        },
+        "1.content.beta.pc.3.0.1": {
+            "file": "1.content.beta.pc.3.0.1.zip",
+            "md5": "f4cbe3b738d767ea96958c4c1d54b729",
+            "extracted_size": 62782622
+        },
+        "1.content.beta.pc.3.0.2": {
+            "file": "1.content.beta.pc.3.0.2.zip",
+            "md5": "3f146c3824934ff59f4e7dfa414c63fa",
+            "extracted_size": 15601713
+        },
+        "1.content.beta.pc.4.0.3": {
+            "file": "1.content.beta.pc.4.0.3.zip",
+            "md5": "8bc448ee9d0825ffd82a9a2926e9e1ad",
+            "extracted_size": 92657402
+        },
+        "1.content.beta.pc.5.0.1": {
+            "file": "1.content.beta.pc.5.0.1.zip",
+            "md5": "59f5b30902ed2e9aa454314f6e4068f5",
+            "extracted_size": 46066882
+        },
+        "1.content.beta.pc.6.0.1": {
+            "file": "1.content.beta.pc.6.0.1.zip",
+            "md5": "139e072c2753ce5d5e1b231b51ff8ab6",
+            "extracted_size": 22717485
+        },
+        "1.content.beta.pc.7.0.1": {
+            "file": "1.content.beta.pc.7.0.1.zip",
+            "md5": "ca80667eeafd97c14292740b0ab96f5d",
+            "extracted_size": 79917631
+        },
+        "1.content.beta.pc.7.0.2": {
+            "file": "1.content.beta.pc.7.0.2.zip",
+            "md5": "a643f173060695deb0807b19cf1c1263",
+            "extracted_size": 25663380
+        },
+        "1.content.ml.pc.8.0.1": {
+            "file": "1.content.ml.pc.8.0.1.zip",
+            "md5": "9dfe1a81ec8fbfe77e6623a210d775f7",
+            "extracted_size": 87615758
+        },
+        "1.content.ml.pc.8.0.2": {
+            "file": "1.content.ml.pc.8.0.2.zip",
+            "md5": "ac37afacbe693490330bf86e0df8faac",
+            "extracted_size": 15345578
+        },
+        "1.content.beta.pc.8.0.3": {
+            "file": "1.content.beta.pc.8.0.3.zip",
+            "md5": "664409197b8ab946c5942898301b389a",
+            "extracted_size": 38509435
+        },
+        "1.content.beta.pc.9.0.1": {
+            "file": "1.content.beta.pc.9.0.1.zip",
+            "md5": "6670bce5d4671869994d1840582c5041",
+            "extracted_size": 65734319
+        },
+        "1.content.beta.pc.12.0.1": {
+            "file": "1.content.beta.pc.12.0.1.zip",
+            "md5": "07c700737b2ed8770df7ed6ff5f0fa7e",
+            "extracted_size": 31941523
+        },
+        "1.content.beta.pc.12.0.2": {
+            "file": "1.content.beta.pc.12.0.2.zip",
+            "md5": "c06cafb7ff9a0edfd2a41f065227a955",
+            "extracted_size": 86964042
+        },
+        "1.content.beta.pc.12.0.3": {
+            "file": "1.content.beta.pc.12.0.3.zip",
+            "md5": "a0ad3e79598cffc1670f27cc59c121dc",
+            "extracted_size": 28691232
+        },
+        "1.content.beta.pc.16.0.1": {
+            "file": "1.content.beta.pc.16.0.1.zip",
+            "md5": "b9cec681ef4c3ee45741feff35b7b6de",
+            "extracted_size": 108292633
+        },
+        "1.content.beta.pc.17.0.1": {
+            "file": "1.content.beta.pc.17.0.1.zip",
+            "md5": "40e10797f787d33b03142e5b237c0c8b",
+            "extracted_size": 56843120
+        },
+        "1.content.beta.pc.18.0.1": {
+            "file": "1.content.beta.pc.18.0.1.zip",
+            "md5": "3fc2d98350b4c3cd35303d5030d71506",
+            "extracted_size": 96309485
+        },
+        "1.content.beta.pc.21.0.1": {
+            "file": "1.content.beta.pc.21.0.1.zip",
+            "md5": "05b426cda5ac447de360f0c5c101b3a8",
+            "extracted_size": 65694727
+        },
+        "1.content.beta.pc.23.0.1": {
+            "file": "1.content.beta.pc.23.0.1.zip",
+            "md5": "23340e5ce70ef9a5e627b075125c9713",
+            "extracted_size": 48872726
+        },
+        "1.content.beta.pc.24.0.1": {
+            "file": "1.content.beta.pc.24.0.1.zip",
+            "md5": "6cadd2eab9a31bb6f9284f97cfc87b2b",
+            "extracted_size": 57750693
+        }
+    }
+}
